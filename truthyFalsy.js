@@ -1,5 +1,5 @@
-var myVar = "";
 
+var myVar = "";
 
 // falsy--   false,0, "", null, undefined, NaN  
 //rest of will be truthy value;

@@ -1,21 +1,20 @@
-// function number(){
-//     return 10;
-// }
+//normal function
+function number(){
+    return 10;
+}
 
-// console.log(number());
+console.log(number());
 
 //Arrow function
+let number = () => 10;
 
-// let number = () =>{
-//     return 10;
-// }
+console.log(number());
 
-// console.log(number());
-
-// let number = (x,y) => x+y;
+//arrow function
+let number = (x,y) => x+y;    
     
-    
-//     console.log(number(10,20));
+console.log(number(10,20));
+
 
 
 

@@ -1,5 +1,5 @@
-var age = 18;
 
+var age = 18;
 var type;
 
 if(age >= 18){
